@@ -1,15 +1,44 @@
-# What is this?
+# Read First Mental Health Entertainment
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+ '.md'
+   README.md
+  IRdat.md
+  MHE.md
+  MentalHealthEntertainment.md
+  Mental_Health_Entertainment.md
+  MHEnt.md
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+## 'Github.dev'
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+   repo github/dev
 
-Preview the gif below to get a quick demo of github.dev in action.
+### Understand Mental Health Entertainment is a Must
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+  Headers(#, ##, ###)
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+  Bold and italic text(**, *)
+
+  Lists(-,+,1.)
+
+  Code blocks('''')
+
+  Links([text](url))
+
+  Images(![image](url))
+
+  '.git'
+  '.MHE'
+  '.IRdat'
+  '.MentalHealthEntertainment'
+  '.Mental_Heath_Entertainment'
+  ' .MHEnt'
+
+#### @Links FollowMe
+
+[bandlab](https://www.bandlab.com/blanketjack1/tipjar)
+[instabio](instabio.cc/Blanketjack1)
+{[x](https://x.com/hilifejaten?s=21);
+     [x][def]
+}
+![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)[documentation](https://github.co/codespaces-editor-help).
+[def]: https://x.com/hilifejaketen?s=21
